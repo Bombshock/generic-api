@@ -1,0 +1,22 @@
+{
+  "name": "generic-api",
+  "version": "0.0.1",
+  "description": "Generic API",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bombshock/generic-api.git"
+  },
+  "author": "Bombshock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bombshock/generic-api/issues"
+  },
+  "homepage": "https://github.com/Bombshock/generic-api#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "generic-mongo": "git+https://github.com/Bombshock/generic-mongo.git"
+  }
+}
